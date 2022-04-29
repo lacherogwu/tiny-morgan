@@ -22,5 +22,6 @@
 	"type": "module",
 	"devDependencies": {
 		"rollup": "^2.70.2"
-	}
+	},
+	"repository": "lacherogwu/tiny-morgan"
 }
