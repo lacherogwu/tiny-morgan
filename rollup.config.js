@@ -3,5 +3,6 @@ export default {
 	output: {
 		file: 'lib/index.cjs',
 		format: 'cjs',
+		exports: 'auto',
 	},
 };
