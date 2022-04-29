@@ -1,6 +1,6 @@
 {
 	"name": "tiny-morgan",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "HTTP request logger middleware for node.js with zero dependencies",
 	"main": "lib/index.cjs",
 	"files": [
